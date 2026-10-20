@@ -1,0 +1,15 @@
+# Simulation runtime files
+*.log
+*.pcap
+*.pcapng
+*.lock
+*.swp
+.DS_Store
+Thumbs.db
+__pycache__/
+# Dynamips runtime artifacts; router startup-config files stay tracked
+*.nvram
+*.sparsemem
+*.rom
+*.image
+*.bin
